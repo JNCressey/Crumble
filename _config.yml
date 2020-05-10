@@ -8,4 +8,4 @@ include:
   - crumble.md
   - crumble-biscuit-slabs.md
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-tactile
