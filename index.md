@@ -1,3 +1,3 @@
 # Crumble based recipies
-- crumble biscuit slabs.md
-- crumble.md
+- [Crumble Biscuit Slabs](crumble biscuit slabs.md)
+- [Crumble](crumble.md)
