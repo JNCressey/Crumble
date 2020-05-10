@@ -7,3 +7,5 @@ include:
   - index.md
   - crumble.md
   - crumble-biscuit-slabs.md
+
+theme: jekyll-theme-minimal
